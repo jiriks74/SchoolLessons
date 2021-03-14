@@ -1,1 +1,3 @@
 # SchoolLessons
+
+This is repository for project I've done in school. Not all projects are here. Many of them were done on windows and now I'm on linux, so I'm trying make them all work. Some are done in `.NET Framework` which is not available on linux, I'll try to figure out if it can be ported. If not, I'll just copy them here and add noter to the projects readme. (I will add `README` to every project folder)
