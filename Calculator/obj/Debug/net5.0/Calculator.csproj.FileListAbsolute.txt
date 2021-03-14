@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/Calculator
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/jirka/Programs/Projects/learn/School/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/jirka/Programs/Projects/learn/School/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache

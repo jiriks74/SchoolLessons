@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AritmeticSequence/1.0.0": {
+        "runtime": {
+          "AritmeticSequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AritmeticSequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

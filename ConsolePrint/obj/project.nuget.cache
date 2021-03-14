@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgB4vS+rQsgOjZA+uHtW0N0lOsUln+ohhjA3LDYKHdvi8eu43iA3z2tFo3IAfORI8GSjXatTbns8OnsWuJ7Cqg==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/ConsolePrint/ConsolePrint.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/AritmeticSequence
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/AritmeticSequence.deps.json
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/AritmeticSequence.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/AritmeticSequence.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/AritmeticSequence.dll
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/ref/AritmeticSequence.dll
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/bin/Debug/net5.0/AritmeticSequence.pdb
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.dll
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/ref/AritmeticSequence.dll
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.pdb
+/home/jirka/Programs/Projects/learn/School/AritmeticSequence/obj/Debug/net5.0/AritmeticSequence.genruntimeconfig.cache

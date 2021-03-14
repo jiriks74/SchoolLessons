@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S01xusYysTADxLIU3iOW2wquHLWpPJZg4RoZo0oCBi7hx8R/mXEL7F2kk616KqYXeW73vd1aVfby1NJFwUcm4A==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/FibonacciSequence/FibonacciSequence.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdhHNR+JAyFI3z4Jn6YbEkkaZvNs+oWwBdDS78NqbTdTjuDLocyzlAQM6E+RhnbZuK15AVxF98HudO3j4gqwTw==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/RandomNumberGenerator.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

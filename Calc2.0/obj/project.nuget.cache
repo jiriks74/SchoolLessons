@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogeh2c3jPbemwKUvuAXu8ViCjx2kgZLqdnqbhgzbx+4mnv7jWbW/o/2K5+9ZMkdW6W2QJNLvoKzGeMf/z8xhnA==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/Calc2.0/Calc2.0.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

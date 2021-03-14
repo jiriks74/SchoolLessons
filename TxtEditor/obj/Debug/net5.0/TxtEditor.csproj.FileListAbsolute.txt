@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/TxtEditor
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/TxtEditor.deps.json
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/TxtEditor.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/TxtEditor.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/TxtEditor.dll
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/ref/TxtEditor.dll
+/home/jirka/Programs/Projects/learn/School/TxtEditor/bin/Debug/net5.0/TxtEditor.pdb
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.dll
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/ref/TxtEditor.dll
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.pdb
+/home/jirka/Programs/Projects/learn/School/TxtEditor/obj/Debug/net5.0/TxtEditor.genruntimeconfig.cache

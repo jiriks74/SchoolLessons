@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/FileRead
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/FileRead.deps.json
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/FileRead.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/FileRead.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/FileRead.dll
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/ref/FileRead.dll
+/home/jirka/Programs/Projects/learn/School/FileRead/bin/Debug/net5.0/FileRead.pdb
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.dll
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/ref/FileRead.dll
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.pdb
+/home/jirka/Programs/Projects/learn/School/FileRead/obj/Debug/net5.0/FileRead.genruntimeconfig.cache

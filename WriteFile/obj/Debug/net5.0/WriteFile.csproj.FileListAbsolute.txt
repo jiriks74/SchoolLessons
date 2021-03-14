@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/WriteFile
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/WriteFile.deps.json
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/WriteFile.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/WriteFile.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/WriteFile.dll
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/ref/WriteFile.dll
+/home/jirka/Programs/Projects/learn/School/WriteFile/bin/Debug/net5.0/WriteFile.pdb
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.dll
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/ref/WriteFile.dll
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.pdb
+/home/jirka/Programs/Projects/learn/School/WriteFile/obj/Debug/net5.0/WriteFile.genruntimeconfig.cache

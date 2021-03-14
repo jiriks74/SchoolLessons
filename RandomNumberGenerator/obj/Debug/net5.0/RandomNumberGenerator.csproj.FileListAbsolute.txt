@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/RandomNumberGenerator
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/RandomNumberGenerator.deps.json
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/RandomNumberGenerator.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/RandomNumberGenerator.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/RandomNumberGenerator.dll
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/ref/RandomNumberGenerator.dll
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/bin/Debug/net5.0/RandomNumberGenerator.pdb
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.dll
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/ref/RandomNumberGenerator.dll
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.pdb
+/home/jirka/Programs/Projects/learn/School/RandomNumberGenerator/obj/Debug/net5.0/RandomNumberGenerator.genruntimeconfig.cache

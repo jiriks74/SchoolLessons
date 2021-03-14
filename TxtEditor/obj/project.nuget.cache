@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQzVd9L2xA/UhlWP501frksH6Sl+huh4Wa0hRJL2X1ohSA7io8N9ex0rtukriTju7vj2a5DE4TPJI1I6UXq1zA==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/TxtEditor/TxtEditor.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

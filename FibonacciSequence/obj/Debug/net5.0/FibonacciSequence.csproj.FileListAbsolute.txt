@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/FibonacciSequence
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/FibonacciSequence.deps.json
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/FibonacciSequence.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/FibonacciSequence.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/FibonacciSequence.dll
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/ref/FibonacciSequence.dll
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/bin/Debug/net5.0/FibonacciSequence.pdb
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.dll
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/ref/FibonacciSequence.dll
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.pdb
+/home/jirka/Programs/Projects/learn/School/FibonacciSequence/obj/Debug/net5.0/FibonacciSequence.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ArrayNumberFile
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ArrayNumberFile.deps.json
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ArrayNumberFile.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ArrayNumberFile.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ArrayNumberFile.dll
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ref/ArrayNumberFile.dll
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/bin/Debug/net5.0/ArrayNumberFile.pdb
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.dll
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ref/ArrayNumberFile.dll
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.pdb
+/home/jirka/Programs/Projects/learn/School/ArrayNumberFile/obj/Debug/net5.0/ArrayNumberFile.genruntimeconfig.cache

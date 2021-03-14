@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6S9vnAP8+kuBF1BrXQldu+EkCO3rr9YSlabH466zy9fUtWTLZnE1ftM6Rpkff3ieNjQZ5lAeg0SrmjzWN21HQ==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/NumberSort/NumberSort.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

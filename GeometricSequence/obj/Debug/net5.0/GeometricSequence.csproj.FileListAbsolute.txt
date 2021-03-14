@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/GeometricSequence
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/GeometricSequence.deps.json
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/GeometricSequence.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/GeometricSequence.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/GeometricSequence.dll
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/ref/GeometricSequence.dll
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/bin/Debug/net5.0/GeometricSequence.pdb
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.dll
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/ref/GeometricSequence.dll
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.pdb
+/home/jirka/Programs/Projects/learn/School/GeometricSequence/obj/Debug/net5.0/GeometricSequence.genruntimeconfig.cache

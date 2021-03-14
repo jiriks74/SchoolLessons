@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ConsolePrint
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ConsolePrint.deps.json
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ConsolePrint.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ConsolePrint.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ConsolePrint.dll
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ref/ConsolePrint.dll
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/bin/Debug/net5.0/ConsolePrint.pdb
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.dll
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ref/ConsolePrint.dll
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.pdb
+/home/jirka/Programs/Projects/learn/School/ConsolePrint/obj/Debug/net5.0/ConsolePrint.genruntimeconfig.cache

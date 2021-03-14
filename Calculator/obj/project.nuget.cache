@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0QqFoL4O6IHWYKKXvDblhxsQ+oNIgLBQ9qc4210o0GP4dHPkVovVDgfnyWhaoaRNA+Kx8zjTEbhpwxreIH6Vw==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/Calculator/Calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

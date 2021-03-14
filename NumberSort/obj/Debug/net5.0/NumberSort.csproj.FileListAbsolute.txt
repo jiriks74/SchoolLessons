@@ -1,0 +1,16 @@
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/NumberSort
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/NumberSort.deps.json
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/NumberSort.runtimeconfig.json
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/NumberSort.runtimeconfig.dev.json
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/NumberSort.dll
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/ref/NumberSort.dll
+/home/jirka/Programs/Projects/learn/School/NumberSort/bin/Debug/net5.0/NumberSort.pdb
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.csprojAssemblyReference.cache
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.AssemblyInfoInputs.cache
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.AssemblyInfo.cs
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.csproj.CoreCompileInputs.cache
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.dll
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/ref/NumberSort.dll
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.pdb
+/home/jirka/Programs/Projects/learn/School/NumberSort/obj/Debug/net5.0/NumberSort.genruntimeconfig.cache

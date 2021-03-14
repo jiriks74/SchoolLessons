@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGel7qON2K5ROiR4WbvnJyVZXONjLOeYvRBcJq5kSjBvUeWyLXc615wWuJFO0YW65il4tsn3RqjdoT6EM899hA==",
+  "success": true,
+  "projectFilePath": "/home/jirka/Programs/Projects/learn/School/GeometricSequence/GeometricSequence.csproj",
+  "expectedPackageFiles": [
+    "/home/jirka/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
