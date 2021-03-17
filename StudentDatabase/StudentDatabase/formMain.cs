@@ -14,7 +14,9 @@ namespace StudentDatabase
 {
     public partial class formMain : Form
     {
+        //Sqlconnection variable
         SqlConnection connection;
+        //Connection string, get's values from ./Propeties Settings.settings
         private string connectionString = ConfigurationManager.ConnectionStrings["StudentDatabase.Properties.Settings.StudentDatabaseConnectionString"].ConnectionString;
         private int StudentID;
 
@@ -70,8 +72,8 @@ namespace StudentDatabase
                 string queryStudDel = "delete from Students " +
                     "where IdStudent = @AcStudentID";
 
-                using (connection = new SqlConnection(this.connectionString))
-                using (SqlCommand commandAcStudSub = new SqlCommand(queryStudDel, connection))
+                using (connection = new SqlConnection(this.connectionString)) //here you configure the connecton
+                using (SqlCommand commandAcStudSub = new SqlCommand(queryStudDel, connection)) //here you setup the sql command to get the data
                 {
                     connection.Open();
                     commandAcStudSub.Parameters.AddWithValue("@AcStudentID", this.StudentID);
